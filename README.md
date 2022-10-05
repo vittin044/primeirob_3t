@@ -1,5 +1,7 @@
-# terceiro trimestre
-## identificação
-Victor Hugo n:38 1B
-## conteúdo
-HTML,CSS e javaScript
+# Terceiro Trimestre
+
+## Identificação
+Victor Hugo de Carvalho - n 38
+
+## Conteúdo
+HTML, CSS e javaScript
