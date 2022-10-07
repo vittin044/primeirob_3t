@@ -13,18 +13,34 @@ function escreva(){
     document.write(tabuada + " x 10 = " + (tabuada*10) + "<br>");
 }
 
-let lista = ["Jesus","Spessato","Duarte"];
+let lista = ["Jesus","Spessato","Duarte","Jorge","Neuza","Gilmar","Jossyara"];
 
 function mostraLista(){
     document.write("Tamanho da lista: " + lista.length + "<br>");
     for(let i = 0; i < lista.length; i++){
-        document.write("Professor: " + lista[1] + "<br>");
+        document.write("Professor: " + lista[i] + "<br>");
     }
 }
 
-function muliplica(){
-    for(let i = 1; i <= 10; i++){
-        document.write("O valor do i = " + i + "<br>")
+function multiplica(){
+    for(let i = 6; i <= 8; i++){
+        document.write("Tabuada do " + i + "<br>");
+        for(let j = 1; j <= 10; j++){
+            document.write(i + " x "+j+" = " + (i*j) + "<br>");
+        }
+        document.write("<br>");
     }
 }
 
+function total(){
+    let v = document.getElementById("valor").value;
+    let j = document.getElementById("juros").value;
+    let t = document.getElementById("meses").value;
+    let r = 0;
+    for(let i=1; i <= t;i++){
+        r = v * (1+(j/100));
+        document.write("Mes " + i + " valor: " + r + "<br>");
+        v = r;
+    }
+    document.write("Resultado: " + r);
+}
