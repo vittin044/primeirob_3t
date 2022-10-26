@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
-## Identificação
-Victor Carvalgo - Nr. 38
+##Identificação
+Victor Hugo de Carvalho Nr. 38 1B
 
-## Conteúdo
-HTML, CSS e javaScript
+##Conteudo
+HTML,CSS e javaScript
