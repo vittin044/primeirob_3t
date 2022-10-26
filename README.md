@@ -1,7 +1,7 @@
 # Terceiro Trimestre
 
 ## Identificação
-Victor Hugo - N. 38
+Victor Carvalgo - Nr. 38
 
 ## Conteúdo
 HTML, CSS e javaScript
