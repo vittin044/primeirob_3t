@@ -1,7 +1,7 @@
-# Terceiro Trimestre
+# terceiro trimestre
 
-##Identificação
-Victor Hugo de Carvalho Nr. 38 1B
+## indentificação
+Victor - N38 1B
 
-##Conteudo
+## conteúdo
 HTML,CSS e javaScript
