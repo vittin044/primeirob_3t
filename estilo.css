@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.calculadora {
+    background: rgb(0, 16, 137);
+    color: rgb(0, 0, 0);
+    width: 210px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+
+#sptotalgeral {
+    background: rgb(198, 171, 204);
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.calculadora input {
+    padding: 3px;
+    color: black;
+    border-radius: 5px;
+}
+
+.calculadora button {
+    padding: 5px;
+    margin-top: 10px;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+
+}
